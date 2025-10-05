@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: myapp-container
-          image: PLACEHOLDER_IMAGE   
+          image: 227295996532.dkr.ecr.us-east-1.amazonaws.com/sampleapp:latest   
           ports:
             - containerPort: 5000    
           
